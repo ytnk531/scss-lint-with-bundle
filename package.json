@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "@types/lodash": "^4.14.144",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "rxjs": "^6.5.3"
   }
 }
